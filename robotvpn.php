@@ -1,4 +1,4 @@
-{"Version":"1.1",
+{"Version":"1.2",
 "Url":"https://github.com/kong-vpn/kong/raw/main/robotvpn.zip" ,
 "Changelog":" www.robot.net",
 
