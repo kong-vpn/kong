@@ -1,4 +1,4 @@
-{"Version":"3.6",
+{"Version":"3.7",
 "Url":"https://github.com/kong-vpn/kong/raw/main/akiravpn.zip" ,
 "Changelog":"AkiraVPN
 กรุณากดอัปเดตเซิร์ฟเวอร์ทุกวัน
